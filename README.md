@@ -1,4 +1,4 @@
-# Natural Language Processing with Deep Learning (CSE468)
+# Natural Language Processing
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
@@ -6,7 +6,7 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-under%20construction-yellow)
 
-A complete, topic-wise theory-to-implementation repository for **CSE468 — Natural Language Processing with Deep Learning**. Every topic in the curriculum — from the geometry of distributional word vectors to Recursive Neural Tensor Networks — is built out as a self-contained unit with rigorous theory, fully runnable PyTorch/TensorFlow code, a line-by-line explanation of that code, and supporting diagrams.
+A complete, topic-wise theory-to-implementation repository for **Natural Language Processing**. Every topic in the curriculum — from the geometry of distributional word vectors to Recursive Neural Tensor Networks — is built out as a self-contained unit with rigorous theory, fully runnable PyTorch/TensorFlow code, a line-by-line explanation of that code, and supporting diagrams.
 
 ![Course roadmap: five phases from word vectors to recursive neural tensor networks](assets/roadmap-overview.png)
 
@@ -31,7 +31,7 @@ A complete, topic-wise theory-to-implementation repository for **CSE468 — Natu
 
 ## Overview
 
-CSE468 traces the path NLP itself took: from counting and factorizing co-occurrence statistics, to predicting words with shallow neural networks, to recurrent and recursive architectures that respect sequence and syntax. This repository follows that same arc, and three papers anchor its structure rather than sitting as footnotes.
+The path NLP itself took: from counting and factorizing co-occurrence statistics, to predicting words with shallow neural networks, to recurrent and recursive architectures that respect sequence and syntax. This repository follows that same arc, and three papers anchor its structure rather than sitting as footnotes.
 
 Bengio et al.'s 2003 neural probabilistic language model is the ancestor of everything in Modules II and III — the original argument that a network conditioned on a fixed context window can learn distributed word representations *and* a language model jointly. Collobert & Weston's "almost from scratch" architecture is the case, running through Module IV, for learning general-purpose word representations once and reusing them across POS tagging, NER, and other tasks rather than hand-engineering features per task. And Pennington, Socher & Manning's GloVe paper is the reason Module III is structured as one continuous story — PMI → matrix factorization → Word2Vec → GloVe — instead of four disconnected algorithms; GloVe is explicitly the reconciliation of the count-based and predictive views.
 
@@ -260,7 +260,7 @@ Intended to be released under the MIT License — free to reuse for learning, te
 
 ## Author
 
-Maintained by **Ayush**, B.Tech AIML, Amity University Lucknow, as part of CSE468 coursework.
+Maintained by **Ayush**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ayush--2703-181717?logo=github&logoColor=white)](https://github.com/Ayush-2703)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsingh2703)
