@@ -1,0 +1,47 @@
+# ============================================================
+# CSE468 — Natural Language Processing with Deep Learning
+# Core dependencies for all 5 phases of this repository.
+#
+# Install:      pip install -r requirements.txt
+# Recommended:  Python 3.10 or 3.11 (best PyTorch/TensorFlow compatibility)
+# ============================================================
+
+# --- Deep Learning Frameworks ---
+torch>=2.1.0
+tensorflow>=2.15.0
+
+# --- Core Scientific Computing ---
+numpy>=1.26.0
+scipy>=1.11.0
+pandas>=2.1.0
+scikit-learn>=1.3.2
+
+# --- NLP Toolkits ---
+nltk>=3.8.1
+spacy>=3.7.2
+gensim>=4.3.2
+
+# --- Datasets ---
+datasets>=2.16.0            # Hugging Face: SST, CoNLL-2003, AG News, etc.
+
+# --- Visualization ---
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0               # interactive, embedding-projector-style plots (Topic 1.3)
+svgling>=0.4.0                # renders nltk.Tree parse trees as diagrams (Module V)
+
+# --- Notebooks & Utilities ---
+jupyter>=1.0.0
+notebook>=7.0.6
+ipykernel>=6.27.1
+tqdm>=4.66.1
+
+# ------------------------------------------------------------
+# A note on Theano (Topic 1.5):
+# Theano has been unmaintained since 2017 and will not reliably
+# pip-install on Python >= 3.8, so it is intentionally NOT pinned
+# here. That topic's implementation.py targets TensorFlow 2.x;
+# Theano's computational-graph design is covered conceptually in
+# theory.md, with an optional legacy-setup note for anyone who
+# wants to run genuine Theano code in an isolated older environment.
+# ------------------------------------------------------------
