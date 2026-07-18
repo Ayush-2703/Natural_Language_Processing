@@ -1,4 +1,5 @@
-# Natural Language Processing
+![Natural Language Processing](https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=220&section=header&text=Natural%20Language%20Processing&fontSize=64&fontColor=14532D&fontAlignY=36&animation=fadeIn&desc=A%20comprehensive%20blueprint%20for%20Mastering%20Natural%20Language%20Processing&descSize=18&descAlignY=58)
+
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
