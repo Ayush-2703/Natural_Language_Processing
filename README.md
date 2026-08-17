@@ -14,7 +14,7 @@ A complete, topic-wise theory-to-implementation repository for **Natural Languag
 
 <div align="center">
 
-![Course roadmap: five phases from word vectors to recursive neural tensor networks](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)
+![Course roadmap: five phases from word vectors to recursive neural tensor networks](assets/roadmap-overview.png)
 
 </div>
 
