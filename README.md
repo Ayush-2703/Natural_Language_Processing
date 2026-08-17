@@ -258,13 +258,37 @@ Each topic's `theory.md` cites the specific subset of these (and any topic-speci
 
 This started as a personal coursework/portfolio repository, but issues and PRs that fix a bug, sharpen an explanation, or add a missing edge case are welcome — open an issue first for anything beyond a small fix.
 
-## License
 
-Intended to be released under the MIT License — free to reuse for learning, teaching, or interview prep, with attribution.
+---
 
-## Author
+## 📜 License
 
-Maintained by **Ayush**
+Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.  
+You're free to use, fork, and build on this for personal and commercial projects.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ayush--2703-181717?logo=github&logoColor=white)](https://github.com/Ayush-2703)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsingh2703)
+---
+
+## 👤 Author
+
+<div align="center">
+
+### Ayush Kumar Singh
+
+*Researcher in Adversarial ML, Geospatial AI, and LLM/NLP Systems*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ayush%20Kumar%20Singh-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayushsingh2703)
+[![Email](https://img.shields.io/badge/Email-Ayush%20Kumar%20Singh-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ab49ayush@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**If this repository helped you, please consider giving it a ⭐**  
+*It takes 2 seconds and helps others discover it.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=100&section=footer" width="100%"/>
+
+</div>
