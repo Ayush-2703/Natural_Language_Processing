@@ -12,7 +12,11 @@
 
 A complete, topic-wise theory-to-implementation repository for **Natural Language Processing**. Every topic in the curriculum — from the geometry of distributional word vectors to Recursive Neural Tensor Networks — is built out as a self-contained unit with rigorous theory, fully runnable PyTorch/TensorFlow code, a line-by-line explanation of that code, and supporting diagrams.
 
-![Course roadmap: five phases from word vectors to recursive neural tensor networks](assets/roadmap-overview.png)
+<div align="center">
+
+![Course roadmap: five phases from word vectors to recursive neural tensor networks](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)
+
+</div>
 
 ---
 
