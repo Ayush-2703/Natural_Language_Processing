@@ -111,6 +111,7 @@ The intent: read `theory.md` cold, then open `implementation.py` and recognize e
 ```
 CSE468-NLP-Deep-Learning/
 ├── README.md
+├── LICENSE                                                 (MIT License)
 ├── requirements.txt
 ├── .gitignore
 ├── assets/
