@@ -1,6 +1,6 @@
 <div align="center">
 
-![Phase 1: Word Vectors and Basics](https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=220&section=header&text=Phase%201%20%C2%B7%20Word%20Vectors%20and%20Basics&fontSize=42&fontColor=14532D&fontAlignY=38&animation=fadeIn&desc=From%20one-hot%20vectors%20to%20a%20real%2C%20trained%2C%20analogy-solving%20embedding%20space&descSize=16&descAlignY=62)
+![Phase 1: Word Vectors and Basics](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase%201%20%C2%B7%20Word%20Vectors%20and%20Basics&fontSize=42&fontColor=14532D&fontAlignY=38&animation=fadeIn&desc=From%20one-hot%20vectors%20to%20a%20real%2C%20trained%2C%20analogy-solving%20embedding%20space&descSize=16&descAlignY=62)
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
@@ -10,7 +10,7 @@
 ![Topics](https://img.shields.io/badge/topics-5%2F5%20complete-brightgreen)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
-*Module I of [`Natural_Language_Processing`](../README.md) — a topic-wise, theory-to-implementation NLP curriculum*
+*Module I of [`Natural_Language_Processing`](../README.md) — a topic-wise, theory-to-implementation*
 
 </div>
 
@@ -235,28 +235,8 @@ Each topic's own `README.md` cites the specific subset relevant to it, with addi
 
 ---
 
-## 📜 License
-
-Distributed under the **MIT License**. See [`LICENSE`](../LICENSE) for details.
-
----
-
-## 👤 Author
-
 <div align="center">
 
-### Ayush Kumar Singh
-
-*Researcher in Adversarial ML, Geospatial AI, and LLM/NLP Systems*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ayush%20Kumar%20Singh-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayushsingh2703)
-[![Email](https://img.shields.io/badge/Email-Ayush%20Kumar%20Singh-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ab49ayush@gmail.com)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=100&section=footer" width="100%"/>
 
 </div>
