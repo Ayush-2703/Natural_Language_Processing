@@ -1,14 +1,8 @@
 <div align="center">
 
-![Phase 1: Word Vectors and Basics](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase%201%20%C2%B7%20Word%20Vectors%20and%20Basics&fontSize=42&fontColor=14532D&fontAlignY=38&animation=fadeIn&desc=From%20one-hot%20vectors%20to%20a%20real%2C%20trained%2C%20analogy-solving%20embedding%20space&descSize=16&descAlignY=62)
+![Phase 1: Word Vectors and Basics](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase%201%20%C2%B7%20Word%20Vectors%20and%20Basics&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=From%20one-hot%20vectors%20to%20a%20real%2C%20trained%2C%20analogy-solving%20embedding%20space&descSize=16&descAlignY=62)
 
-![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
-![gensim](https://img.shields.io/badge/gensim-4.x-1E88E5)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-1.3-F7931E?logo=scikitlearn&logoColor=white)
-![Topics](https://img.shields.io/badge/topics-5%2F5%20complete-brightgreen)
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
+**Made with ❤️ by [Ayush Kumar Singh](https://github.com/Ayush-2703)**
 
 *Module I of [`Natural_Language_Processing`](../README.md) — a topic-wise, theory-to-implementation*
 
