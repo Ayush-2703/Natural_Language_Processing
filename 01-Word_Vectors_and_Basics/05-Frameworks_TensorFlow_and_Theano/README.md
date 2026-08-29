@@ -6,7 +6,7 @@ Every other topic in this Phase calls `.backward()` or relies on a framework to 
 
 A computational graph represents a calculation as a directed graph: **nodes are operations** (matrix multiply, addition, sigmoid, ...), and **edges are the tensors flowing between them**. The diagram below is the exact graph this topic's logistic regression builds — every box is a real line of code in `implementation.py`.
 
-![A computational graph](images/computational_graph_concept.png)
+![A computational graph](Images/computational_graph_concept.png)
 
 Two passes happen over this graph:
 
