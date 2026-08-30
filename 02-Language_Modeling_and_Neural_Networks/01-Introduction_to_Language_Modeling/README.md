@@ -10,7 +10,7 @@ The probability chain rule decomposes this exactly, with no approximation yet:
 P(w_1, ..., w_T) = P(w_1) · P(w_2|w_1) · P(w_3|w_1,w_2) · ... · P(w_T|w_1,...,w_{T-1})
 ```
 
-![Chain rule decomposition]([02-Language_Modeling_and_Neural_Networks/01-Introduction_to_Language_Modeling/Image/chain_rule_diagram.png](https://github.com/Ayush-2703/Natural_Language_Processing/blob/main/02-Language_Modeling_and_Neural_Networks/01-Introduction_to_Language_Modeling/Image/chain_rule_diagram.png))
+![Chain rule decomposition](https://github.com/Ayush-2703/Natural_Language_Processing/blob/main/02-Language_Modeling_and_Neural_Networks/01-Introduction_to_Language_Modeling/Image/chain_rule_diagram.png) 
 
 This is exact but useless as written — the context `w_1, ..., w_{t-1}` grows without bound, so there is no way to ever collect enough data to estimate `P(w_t | w_1, ..., w_{t-1})` for every possible history. Every practical language model is some strategy for approximating this conditional with a *manageable* amount of context or structure. This Phase covers two such strategies side by side: the classical **n-gram Markov assumption** (Topic 2.2) and a **neural network** that compresses arbitrary history into a fixed-size learned vector (Topic 2.3, and Bengio et al., 2003 before it).
 
@@ -38,7 +38,7 @@ Two ways to read this number. First, it is exactly `exp(cross-entropy loss)` —
 
 Word frequencies in natural language follow an extremely skewed distribution: the `k`-th most frequent word occurs with frequency roughly proportional to `1/k` (**Zipf's law**). The practical consequence for any model that estimates a probability per word: a small number of words account for the overwhelming majority of tokens, while a very long tail of words occurs only once or twice in any corpus you'll ever train on.
 
-![Zipf's law in the Brown corpus]([02-Language_Modeling_and_Neural_Networks/01-Introduction_to_Language_Modeling/Image/zipf_law.png](https://github.com/Ayush-2703/Natural_Language_Processing/blob/main/02-Language_Modeling_and_Neural_Networks/01-Introduction_to_Language_Modeling/Image/zipf_law.png))
+![Zipf's law in the Brown corpus](https://github.com/Ayush-2703/Natural_Language_Processing/blob/main/02-Language_Modeling_and_Neural_Networks/01-Introduction_to_Language_Modeling/Image/zipf_law.png)
 
 This motivates a standard preprocessing choice used throughout this Phase: cap the vocabulary at the `V` most frequent training words and map everything else to a single `<unk>` (unknown) token. Without this, a model would need to estimate parameters for tens of thousands of words it has seen only once or twice — parameters with no reliable signal behind them. With it, the model concentrates its capacity on words it actually has enough data to say something useful about, at the cost of being unable to distinguish between any two rare words it hasn't seen.
 
