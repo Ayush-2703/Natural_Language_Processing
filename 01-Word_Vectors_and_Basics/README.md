@@ -4,7 +4,7 @@
 
 **Made with ❤️ by [Ayush Kumar Singh](https://github.com/Ayush-2703)**
 
-*Module I of [`Natural_Language_Processing`](../README.md) — a topic-wise, theory-to-implementation*
+*[`Natural_Language_Processing`](../README.md) — a topic-wise, theory-to-implementation*
 
 </div>
 
