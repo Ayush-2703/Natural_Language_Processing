@@ -10,7 +10,7 @@ The probability chain rule decomposes this exactly, with no approximation yet:
 P(w_1, ..., w_T) = P(w_1) · P(w_2|w_1) · P(w_3|w_1,w_2) · ... · P(w_T|w_1,...,w_{T-1})
 ```
 
-![Chain rule decomposition](images/chain_rule_diagram.png)
+![Chain rule decomposition](Images/chain_rule_diagram.png)
 
 This is exact but useless as written — the context `w_1, ..., w_{t-1}` grows without bound, so there is no way to ever collect enough data to estimate `P(w_t | w_1, ..., w_{t-1})` for every possible history. Every practical language model is some strategy for approximating this conditional with a *manageable* amount of context or structure. This Phase covers two such strategies side by side: the classical **n-gram Markov assumption** (Topic 2.2) and a **neural network** that compresses arbitrary history into a fixed-size learned vector (Topic 2.3, and Bengio et al., 2003 before it).
 
