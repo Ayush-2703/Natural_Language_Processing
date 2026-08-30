@@ -38,7 +38,7 @@ Two ways to read this number. First, it is exactly `exp(cross-entropy loss)` —
 
 Word frequencies in natural language follow an extremely skewed distribution: the `k`-th most frequent word occurs with frequency roughly proportional to `1/k` (**Zipf's law**). The practical consequence for any model that estimates a probability per word: a small number of words account for the overwhelming majority of tokens, while a very long tail of words occurs only once or twice in any corpus you'll ever train on.
 
-![Zipf's law in the Brown corpus](images/zipf_law.png)
+![Zipf's law in the Brown corpus](02-Language_Modeling_and_Neural_Networks/01-Introduction_to_Language_Modeling/Image/zipf_law.png)
 
 This motivates a standard preprocessing choice used throughout this Phase: cap the vocabulary at the `V` most frequent training words and map everything else to a single `<unk>` (unknown) token. Without this, a model would need to estimate parameters for tens of thousands of words it has seen only once or twice — parameters with no reliable signal behind them. With it, the model concentrates its capacity on words it actually has enough data to say something useful about, at the cost of being unable to distinguish between any two rare words it hasn't seen.
 
