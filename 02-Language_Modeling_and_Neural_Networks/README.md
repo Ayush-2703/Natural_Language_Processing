@@ -1,14 +1,8 @@
 <div align="center">
 
-![Phase 2: Language Modeling and Neural Networks](https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=220&section=header&text=Phase%202%20%C2%B7%20Language%20Modeling%20and%20Neural%20Networks&fontSize=36&fontColor=14532D&fontAlignY=38&animation=fadeIn&desc=From%20counting%20bigrams%20to%20the%20first%20neural%20language%20model&descSize=16&descAlignY=62)
+![Phase 2: Language Modeling and Neural Networks](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase%202%20%C2%B7%20Language%20Modeling%20and%20Neural%20Networks&fontSize=36&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=From%20counting%20bigrams%20to%20the%20first%20neural%20language%20model&descSize=16&descAlignY=62)
 
-![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3.8-4B8BBE)
-![Status](https://img.shields.io/badge/status-planned%20%2F%20not%20yet%20implemented-yellow)
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
-
-*Module II of [`Natural_Language_Processing`](../README.md) — a topic-wise, theory-to-implementation NLP curriculum*
+*[`Natural_Language_Processing`](../README.md) — a topic-wise, theory-to-implementation NLP curriculum*
 
 </div>
 
@@ -146,6 +140,6 @@ Distributed under the **MIT License**. See [`LICENSE`](../LICENSE) for details.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=100&section=footer" width="100%"/>
 
 </div>
