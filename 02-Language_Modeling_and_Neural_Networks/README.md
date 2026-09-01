@@ -1,6 +1,6 @@
 <div align="center">
 
-![Phase 2: Language Modeling and Neural Networks](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase%202%20%C2%B7%20Language%20Modeling%20and%20Neural%20Networks&fontSize=36&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=From%20counting%20bigrams%20to%20the%20first%20neural%20language%20model&descSize=16&descAlignY=62)
+![Phase 2: Language Modeling and Neural Networks](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase%202%20%C2%B7%20Language%20Modeling%20and%20Neural%20Networks&fontSize=34&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=From%20counting%20bigrams%20to%20the%20first%20neural%20language%20model&descSize=16&descAlignY=62)
 
 **Made with ❤️ by [Ayush Kumar Singh](https://github.com/Ayush-2703)**
 
