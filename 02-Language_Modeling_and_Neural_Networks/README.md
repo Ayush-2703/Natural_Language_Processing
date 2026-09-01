@@ -2,6 +2,8 @@
 
 ![Phase 2: Language Modeling and Neural Networks](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase%202%20%C2%B7%20Language%20Modeling%20and%20Neural%20Networks&fontSize=36&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=From%20counting%20bigrams%20to%20the%20first%20neural%20language%20model&descSize=16&descAlignY=62)
 
+**Made with ❤️ by [Ayush Kumar Singh](https://github.com/Ayush-2703)**
+
 *[`Natural_Language_Processing`](../README.md) — a topic-wise, theory-to-implementation NLP curriculum*
 
 </div>
@@ -78,9 +80,9 @@ Per the [root README's dataset table](../README.md#datasets-used), this phase is
 
 ## Build Progress
 
-- [ ] 2.1 — Introduction to Language Modeling: theory
-- [ ] 2.2 — Bigrams and Language Constructs: theory, implementation, explanation, diagrams
-- [ ] 2.3 — Neural Network Bigram Model: theory, implementation, explanation, diagrams
+- ✅ 2.1 — Introduction to Language Modeling: theory
+- ✅ 2.2 — Bigrams and Language Constructs: theory, implementation, explanation, diagrams
+- ✅ 2.3 — Neural Network Bigram Model: theory, implementation, explanation, diagrams
 
 ## Getting Started
 
@@ -118,25 +120,6 @@ These anchor the topics planned above; each topic's own `README.md` will cite th
 
 ---
 
-## 📜 License
-
-Distributed under the **MIT License**. See [`LICENSE`](../LICENSE) for details.
-
----
-
-## 👤 Author
-
-<div align="center">
-
-### Ayush Kumar Singh
-
-*Researcher in Adversarial ML, Geospatial AI, and LLM/NLP Systems*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ayush%20Kumar%20Singh-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayushsingh2703)
-[![Email](https://img.shields.io/badge/Email-Ayush%20Kumar%20Singh-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ab49ayush@gmail.com)
-
-</div>
 
 <div align="center">
 
