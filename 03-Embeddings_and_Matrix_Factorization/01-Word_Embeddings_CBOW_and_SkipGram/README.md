@@ -12,7 +12,7 @@ CBOW predicts the **centre word from its surrounding context**. Given a window o
 2. **Averages** them into a single vector `v_context = (1/2m) Σ vec(w_{t+j})` for `j ≠ 0`.
 3. Projects `v_context` to a score over the vocabulary and predicts `w_t`.
 
-![CBOW vs. Skip-gram](images/cbow_vs_skipgram_architecture.png)
+![CBOW vs. Skip-gram](https://github.com/Ayush-2703/Natural_Language_Processing/blob/main/03-Embeddings_and_Matrix_Factorization/01-Word_Embeddings_CBOW_and_SkipGram/Image/cbow_vs_skipgram_architecture.png)
 
 The averaging step in (2) is the architecture's defining choice and its defining limitation: it deliberately discards word order within the window (the context "the ___ sat" and "sat ___ the" — nonsensical, but illustrating the point — would produce the *same* averaged vector if those were literally the only two context words), and it smooths several words' worth of signal into one vector before ever trying to predict anything, which tends to make CBOW's training task easier and faster to optimise — visible directly in `explanation.md`'s loss curves.
 
@@ -30,7 +30,7 @@ Each `(centre, context)` pair within the window becomes its own independent trai
 
 Whichever direction the prediction runs, the final step is identical: a linear projection from the embedding dimension `d` down to the *full* vocabulary size `V`, followed by softmax.
 
-![The cost of a full softmax](images/full_softmax_cost.png)
+![The cost of a full softmax](https://github.com/Ayush-2703/Natural_Language_Processing/blob/main/03-Embeddings_and_Matrix_Factorization/01-Word_Embeddings_CBOW_and_SkipGram/Image/full_softmax_cost.png)
 
 The embedding lookup itself costs `O(d)` — trivial. The output projection costs `O(d · V)` — and critically, this cost is paid **on every single training example**, regardless of which one word (CBOW) or which one context word (skip-gram) is actually being predicted. With a real-scale vocabulary of, say, 100,000+ words, computing and normalising 100,000 scores just to find out the gradient for one correct answer is enormous, repeated waste. This topic's vocabulary is deliberately capped at 3,000 words specifically to keep this full-softmax cost tractable to run directly in this repository — and that very cap is the motivating problem Topic 3.2 exists to solve, via two genuinely different algorithmic answers (hierarchical softmax and negative sampling) that both avoid ever scoring the entire vocabulary on a typical training step.
 
