@@ -224,7 +224,7 @@ Topic 1.3's `embedding_projector.html` is fully self-contained (Plotly is bundle
 Each topic's own `README.md` cites the specific subset relevant to it, with additional context.
 
 ## Navigate
-
+ 
 ⬅ [Repository root](../README.md) · ➡ [Phase 2 — Language Modeling and Neural Networks](../02-Language_Modeling_and_Neural_Networks)
 
 ---
