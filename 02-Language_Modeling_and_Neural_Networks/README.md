@@ -31,7 +31,7 @@
 ---
 
 ## Overview
-
+ 
 Phase 1 established *what* a word vector is and how to evaluate one. Phase 2 asks a different question: how do you model **sequences** of words — specifically, how likely is a given sentence, or a given next word, under some model of the language? This is the oldest problem in the field, and it's the problem Bengio et al.'s 2003 neural probabilistic language model (already referenced throughout Phase 1) was originally built to solve — this phase is where that motivation gets unpacked properly, starting from the classical, count-based approach it was reacting against.
 
 The throughline: start with the simplest possible statistical model of language (counting), find its sharpest failure mode (data sparsity — most bigrams a test sentence needs were never seen in training), and then show that a small neural network sidesteps that failure mode entirely by generalizing through shared, dense parameters instead of memorizing discrete counts.
