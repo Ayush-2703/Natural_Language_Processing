@@ -9,7 +9,7 @@
 </div>
 
 ---
-
+ 
 > **🚧 Status: scaffolding only.** The three topic folders and this module README exist, but the theory write-ups, `implementation.py` files, `explanation.md` walkthroughs, and diagrams have not been added yet. Everything below describes the **planned** scope and structure for this phase — it deliberately does not claim results, datasets-in-hand, or images that don't exist yet. See [Build Progress](#build-progress) for exactly what's outstanding.
 
 ---
