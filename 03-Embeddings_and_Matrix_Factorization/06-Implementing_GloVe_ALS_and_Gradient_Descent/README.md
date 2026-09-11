@@ -1,6 +1,6 @@
 # 3.6 — Implementing GloVe using ALS and Gradient Descent
 
-## 1. The GloVe objective
+## 1. The GloVe objective 
 
 GloVe minimises a weighted sum of squared reconstruction errors over all observed word-context pairs:
 
