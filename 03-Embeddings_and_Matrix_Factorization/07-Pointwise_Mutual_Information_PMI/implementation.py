@@ -1,6 +1,5 @@
 """
 Topic 3.7 -- Pointwise Mutual Information (PMI) Implementations
-CSE468: Natural Language Processing with Deep Learning
 
 PMI is the bridge between count-based and predictive embeddings. This topic:
 
@@ -11,9 +10,6 @@ PMI is the bridge between count-based and predictive embeddings. This topic:
   3. Directly compares PPMI-based SVD embeddings to SPPMI-based SVD
      embeddings (Topic 3.5 predicts SPPMI, k=5, matches SGNS's implicit
      target; PPMI is the k=1 special case).
-
-Run directly:
-    python implementation.py
 """
 
 import os
