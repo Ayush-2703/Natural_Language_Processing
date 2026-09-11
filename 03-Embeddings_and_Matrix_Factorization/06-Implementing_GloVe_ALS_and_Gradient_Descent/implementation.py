@@ -1,6 +1,5 @@
 """
 Topic 3.6 -- Implementing GloVe using Alternating Least Squares and Gradient Descent
-CSE468: Natural Language Processing with Deep Learning
 
 GloVe (Pennington, Socher & Manning, 2014) is a weighted least-squares
 factorisation of the log co-occurrence matrix. This topic implements it two
@@ -8,8 +7,6 @@ ways -- ALS and gradient descent -- and compares both to Topic 3.4's SVD/PPMI
 embeddings on the same analogy test to close the loop on Phase 3's full
 comparison arc: SGNS (3.1-3.3), SVD/PPMI (3.4), GloVe (3.6), PMI (3.7).
 
-Run directly:
-    python implementation.py
 """
 
 import os
