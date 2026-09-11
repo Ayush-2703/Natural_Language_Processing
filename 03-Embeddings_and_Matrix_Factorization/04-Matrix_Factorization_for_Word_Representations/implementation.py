@@ -1,6 +1,5 @@
 """
 Topic 3.4 -- Matrix Factorization: Introduction, Training, Models, and Regularization
-CSE468: Natural Language Processing with Deep Learning
 
 The central idea of this Phase shifts here from "predict the next word
 with a neural network" to "decompose a co-occurrence matrix." These two
@@ -20,9 +19,6 @@ This topic:
      a loss, and a regularization term.
   5. Compares all three sets of embeddings qualitatively and via an analogy-
      accuracy evaluation.
-
-Run directly:
-    python implementation.py
 """
 
 import os
