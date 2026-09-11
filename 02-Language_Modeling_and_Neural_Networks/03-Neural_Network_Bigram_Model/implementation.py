@@ -1,6 +1,5 @@
 """
 Topic 2.3 -- Implementation of the Neural Network Bigram Model
-CSE468: Natural Language Processing with Deep Learning
 
 A neural language model restricted to bigram context -- Bengio et al.
 (2003)'s architecture (embedding -> hidden layer with a nonlinearity ->
@@ -8,9 +7,6 @@ softmax over the vocabulary) with the context window shrunk to a single
 word, so it is the direct neural counterpart of Topic 2.2's counting-based
 bigram model and can be benchmarked against it, and against Topic 2.1's
 unigram baseline, on identical data with an identical evaluation metric.
-
-Run directly:
-    python implementation.py
 """
 
 import math
