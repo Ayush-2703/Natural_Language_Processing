@@ -1,6 +1,5 @@
 """
 Topic 2.2 -- Bigrams and Language Constructs
-CSE468: Natural Language Processing with Deep Learning
 
 Builds a classical, counting-based bigram language model on the exact
 train/test split and vocabulary cached by Topic 2.1, and walks through why
@@ -13,9 +12,6 @@ raw maximum-likelihood bigram counting is actually broken in practice:
                       Fixes the zero-probability crash, but over-corrects.
   3. Linear interpolation with the unigram model, with the interpolation
      weight tuned on a held-out validation slice of the training data.
-
-Run directly:
-    python implementation.py
 """
 
 import math
