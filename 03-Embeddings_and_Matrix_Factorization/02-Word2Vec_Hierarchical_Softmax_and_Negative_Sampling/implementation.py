@@ -1,6 +1,5 @@
 """
 Topic 3.2 -- Word2Vec Training Mechanisms: Hierarchical Softmax and Negative Sampling
-CSE468: Natural Language Processing with Deep Learning
 
 Topic 3.1 ended by identifying the bottleneck shared by CBOW and skip-gram:
 a full softmax over the entire vocabulary, computed on every training
@@ -20,9 +19,6 @@ pair count, batch size, embedding dimension), then negative sampling -- the
 fastest of the three -- is used to train on a substantially larger pair
 budget than Topic 3.1's full-softmax models could afford in similar
 wall-clock time, to see whether the resulting embeddings are any better.
-
-Run directly:
-    python implementation.py
 """
 
 import heapq
