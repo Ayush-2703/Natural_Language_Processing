@@ -1,6 +1,5 @@
 """
 Topic 3.1 -- Introduction to Word Embedding (CBOW and Skip-Gram)
-CSE468: Natural Language Processing with Deep Learning
 
 Builds and caches a Word2Vec-ready corpus and vocabulary (reused by Topics
 3.2 and 3.3), then implements both of Mikolov et al. (2013)'s architectures
@@ -15,9 +14,6 @@ The vocabulary is deliberately capped small (3,000 words) specifically so a
 full softmax is computationally tractable here -- this cap, and the cost of
 removing it, is the entire motivation for Topic 3.2's hierarchical softmax
 and negative sampling.
-
-Run directly:
-    python implementation.py
 """
 
 import math
