@@ -1,6 +1,5 @@
 """
 Topic 2.1 -- Introduction to Language Modeling and Neural Networks
-CSE468: Natural Language Processing with Deep Learning
 
 A language model assigns a probability to a sequence of words. This topic:
 
@@ -14,9 +13,6 @@ A language model assigns a probability to a sequence of words. This topic:
      both the motivation for capping the vocabulary with <UNK> and a preview
      of why n-gram counting runs into trouble (Topic 2.2) in a way neural
      models (Topic 2.3) are built to handle more gracefully.
-
-Run directly:
-    python implementation.py
 """
 
 import math
