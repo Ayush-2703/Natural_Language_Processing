@@ -12,9 +12,6 @@ in production -- nobody reimplements Word2Vec's training loop just to
 explore a vector space). Phase 3 of this course dissects Word2Vec's training
 mechanics -- CBOW vs. Skip-gram, hierarchical softmax, negative sampling --
 from scratch in both NumPy and TensorFlow.
-
-Run directly:
-    python implementation.py
 """
 
 import os
