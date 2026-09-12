@@ -1,6 +1,5 @@
 """
 Topic 1.1 -- Introduction to Word Vectors and Word Analogy
-CSE468: Natural Language Processing with Deep Learning
 
 Trains (or loads a cached copy of) Word2Vec embeddings on a multi-million-
 token corpus assembled from NLTK's Brown, Gutenberg, and Movie Reviews
