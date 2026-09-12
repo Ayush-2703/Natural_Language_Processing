@@ -15,9 +15,6 @@ high-dimensional space for the actual *quantitative* assessment:
             part of speech -- a property nothing in training explicitly asked
             for, but which falls out of words sharing distributional contexts
             with same-category words.
-
-Run directly:
-    python implementation.py
 """
 
 import os
