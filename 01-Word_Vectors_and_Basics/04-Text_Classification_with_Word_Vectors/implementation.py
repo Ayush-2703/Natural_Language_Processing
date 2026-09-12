@@ -18,10 +18,8 @@ This is also the most direct illustration in this Phase of Collobert &
 Weston's (2008) central argument: a single, generically-trained word
 representation can be reused as the input layer for a different downstream
 task (here, sentiment) instead of hand-engineering task-specific features.
-
-Run directly:
-    python implementation.py
 """
+
 
 import os
 import re
