@@ -1,6 +1,5 @@
 """
 Topic 1.3 -- Visualizing Data and Analogies (t-SNE, Embedding Projectors)
-CSE468: Natural Language Processing with Deep Learning
 
 Two things this topic does that Topic 1.2 deliberately did not:
 
