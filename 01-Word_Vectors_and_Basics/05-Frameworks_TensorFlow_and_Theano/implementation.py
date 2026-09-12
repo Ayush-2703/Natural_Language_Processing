@@ -1,6 +1,5 @@
 """
 Topic 1.5 -- Basics of Computational Frameworks: TensorFlow and Theano
-CSE468: Natural Language Processing with Deep Learning
 
 This topic is about the computational-graph machinery underneath every deep
 learning framework, not about a new NLP technique -- so the "model" here is
