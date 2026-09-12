@@ -13,10 +13,6 @@ Two things this topic does that Topic 1.2 deliberately did not:
      vec(b)-vec(a)+vec(c) ~ vec(d) work; t-SNE's nonlinear warping does not
      promise to, and the side-by-side comparison below shows the difference
      directly rather than just asserting it.
-
-Run directly:
-    python implementation.py
-(also writes an interactive embedding_projector.html you can open in any browser)
 """
 
 import os
