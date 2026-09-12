@@ -17,9 +17,6 @@ The dataset is a small, hand-written, self-contained toy sentiment set (no
 external corpus download needed -- this topic is about the framework, not
 about NLP data engineering, which is exhausted enough elsewhere in this
 Phase) represented with simple bag-of-words counts.
-
-Run directly:
-    python implementation.py
 """
 
 import os
