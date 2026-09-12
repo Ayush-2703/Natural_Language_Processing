@@ -1,6 +1,5 @@
 """
 Topic 1.4 -- Text Classification utilizing Word Vectors
-CSE468: Natural Language Processing with Deep Learning
 
 Sentiment classification on NLTK's Movie Reviews corpus (2,000 documents,
 balanced positive/negative), comparing three ways of turning a document into
