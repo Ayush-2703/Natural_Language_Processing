@@ -2,13 +2,6 @@
 
 ![Phase 3: Deep Word Embeddings and Matrix Factorization](https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=220&section=header&text=Phase%203%20%C2%B7%20Embeddings%20and%20Matrix%20Factorization&fontSize=34&fontColor=14532D&fontAlignY=38&animation=fadeIn&desc=Two%20roads%20to%20the%20same%20vector%20space%3A%20predict%20it%2C%20or%20factorize%20it&descSize=16&descAlignY=62)
 
-![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-hand--derived%20gradients-013243?logo=numpy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-1.3-F7931E?logo=scikitlearn&logoColor=white)
-![Topics](https://img.shields.io/badge/topics-7%2F7%20complete-brightgreen)
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
 *Module III of [`Natural_Language_Processing`](../README.md) — a topic-wise, theory-to-implementation NLP curriculum*
 
