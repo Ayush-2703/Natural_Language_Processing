@@ -7,7 +7,7 @@
 *[`Natural_Language_Processing`](../README.md) — a topic-wise, theory-to-implementation NLP curriculum*
 
 </div>
-
+ 
 ---
 
 ## Table of Contents
