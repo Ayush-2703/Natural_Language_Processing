@@ -1,10 +1,11 @@
 <div align="center">
 
-![Phase 3: Deep Word Embeddings and Matrix Factorization](https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=220&section=header&text=Phase%203%20%C2%B7%20Embeddings%20and%20Matrix%20Factorization&fontSize=34&fontColor=14532D&fontAlignY=38&animation=fadeIn&desc=Two%20roads%20to%20the%20same%20vector%20space%3A%20predict%20it%2C%20or%20factorize%20it&descSize=16&descAlignY=62)
+![Phase 3: Deep Word Embeddings and Matrix Factorization](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase%203%20%C2%B7%20Embeddings%20and%20Matrix%20Factorization&fontSize=34&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Two%20roads%20to%20the%20same%20vector%20space%3A%20predict%20it%2C%20or%20factorize%20it&descSize=16&descAlignY=62)
 
 **Made with ❤️ by [Ayush Kumar Singh](https://github.com/Ayush-2703)**
 
 *[`Natural_Language_Processing`](../README.md) — a topic-wise, theory-to-implementation NLP curriculum*
+
 </div>
 
 ---
@@ -273,6 +274,6 @@ Distributed under the **MIT License**. See [`LICENSE`](../LICENSE) for details.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=100&section=footer" width="100%"/>
 
 </div>
