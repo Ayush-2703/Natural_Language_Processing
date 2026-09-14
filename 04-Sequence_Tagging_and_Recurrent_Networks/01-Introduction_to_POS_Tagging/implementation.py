@@ -1,6 +1,5 @@
 """
 Topic 4.1 -- Introduction to Parts-of-Speech (POS) Tagging
-CSE468: Natural Language Processing with Deep Learning
 
 POS tagging assigns a grammatical category (noun, verb, adjective, ...) to
 every token in a sentence. This is both a useful NLP sub-task in its own
