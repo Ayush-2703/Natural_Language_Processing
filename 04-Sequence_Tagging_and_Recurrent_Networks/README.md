@@ -1,20 +1,12 @@
 <div align="center">
 
-![Phase 4: Sequence Tagging and Recurrent Networks](https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=220&section=header&text=Phase%204%20%C2%B7%20Sequence%20Tagging%20and%20Recurrent%20Networks&fontSize=32&fontColor=14532D&fontAlignY=38&animation=fadeIn&desc=From%20one%20label%20per%20sentence%20to%20one%20label%20per%20word&descSize=16&descAlignY=62)
+![Phase 4: Sequence Tagging and Recurrent Networks](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase%204%20%C2%B7%20Sequence%20Tagging%20and%20Recurrent%20Networks&fontSize=32&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=From%20one%20label%20per%20sentence%20to%20one%20label%20per%20word&descSize=16&descAlignY=62)
 
-![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3.8-4B8BBE)
-![Status](https://img.shields.io/badge/status-planned%20%2F%20not%20yet%20implemented-yellow)
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
+**Made with ❤️ by [Ayush Kumar Singh](https://github.com/Ayush-2703)**
 
-*Module IV of [`Natural_Language_Processing`](../README.md) — a topic-wise, theory-to-implementation NLP curriculum*
+*[`Natural_Language_Processing`](../README.md) — a topic-wise, theory-to-implementation*
 
 </div>
-
----
-
-> **🚧 Status: scaffolding only.** The four topic folders and this module README exist, but the theory write-ups, `implementation.py` files, `explanation.md` walkthroughs, and diagrams have not been added yet. Everything below describes the **planned** scope and structure for this phase — it deliberately does not claim results, datasets-in-hand, or images that don't exist yet. See [Build Progress](#build-progress) for exactly what's outstanding.
 
 ---
 
@@ -135,28 +127,8 @@ These anchor the topics planned above; each topic's own `README.md` will cite th
 
 ---
 
-## 📜 License
-
-Distributed under the **MIT License**. See [`LICENSE`](../LICENSE) for details.
-
----
-
-## 👤 Author
-
 <div align="center">
 
-### Ayush Kumar Singh
-
-*Researcher in Adversarial ML, Geospatial AI, and LLM/NLP Systems*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ayush%20Kumar%20Singh-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayushsingh2703)
-[![Email](https://img.shields.io/badge/Email-Ayush%20Kumar%20Singh-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ab49ayush@gmail.com)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=100&section=footer" width="100%"/>
 
 </div>
