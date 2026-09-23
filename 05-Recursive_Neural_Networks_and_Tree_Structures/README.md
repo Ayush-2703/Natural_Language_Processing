@@ -1,20 +1,12 @@
 <div align="center">
 
-![Phase 5: Recursive Neural Networks and Tree Structures](https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=220&section=header&text=Phase%205%20%C2%B7%20Recursive%20Neural%20Networks%20and%20Tree%20Structures&fontSize=28&fontColor=14532D&fontAlignY=38&animation=fadeIn&desc=Composing%20meaning%20bottom-up%20over%20a%20parse%20tree%2C%20not%20left-to-right&descSize=16&descAlignY=62)
+![Phase 5: Recursive Neural Networks and Tree Structures](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase%205%20%C2%B7%20Recursive%20Neural%20Networks%20and%20Tree%20Structures&fontSize=28&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Composing%20meaning%20bottom-up%20over%20a%20parse%20tree%2C%20not%20left-to-right&descSize=16&descAlignY=62)
 
-![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
-![Status](https://img.shields.io/badge/status-planned%20%2F%20not%20yet%20implemented-yellow)
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
+**Made with ❤️ by [Ayush Kumar Singh](https://github.com/Ayush-2703)**
 
-*Module V of [`Natural_Language_Processing`](../README.md) — a topic-wise, theory-to-implementation NLP curriculum*
+*[`Natural_Language_Processing`](../README.md) — a topic-wise, theory-to-implementation*
 
 </div>
-
----
-
-> **🚧 Status: scaffolding only.** The five topic folders and this module README exist, but the theory write-ups, `implementation.py` files, `explanation.md` walkthroughs, and diagrams have not been added yet. Everything below describes the **planned** scope and structure for this phase — it deliberately does not claim results, datasets-in-hand, or images that don't exist yet. See [Build Progress](#build-progress) for exactly what's outstanding.
 
 ---
 
@@ -136,28 +128,8 @@ These anchor the topics planned above; each topic's own `README.md` will cite th
 
 ---
 
-## 📜 License
-
-Distributed under the **MIT License**. See [`LICENSE`](../LICENSE) for details.
-
----
-
-## 👤 Author
-
 <div align="center">
 
-### Ayush Kumar Singh
-
-*Researcher in Adversarial ML, Geospatial AI, and LLM/NLP Systems*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ayush%20Kumar%20Singh-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayushsingh2703)
-[![Email](https://img.shields.io/badge/Email-Ayush%20Kumar%20Singh-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ab49ayush@gmail.com)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0FDF4,100:BBF7D0&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=100&section=footer" width="100%"/>
 
 </div>
