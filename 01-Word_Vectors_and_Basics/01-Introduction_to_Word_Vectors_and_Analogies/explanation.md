@@ -1,4 +1,4 @@
-# 1.1 — Code Explanation
+# Explanation: Introduction to Word Vectors and Analogies
 
 A section-by-section walkthrough of `implementation.py`. Read `theory.md` first — this file assumes you know what cosine similarity and 3CosAdd analogy solving are, and focuses on *why the code is written the way it is*.
 
