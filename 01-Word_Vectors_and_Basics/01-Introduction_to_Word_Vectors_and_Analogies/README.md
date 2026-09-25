@@ -1,4 +1,10 @@
-# 1.1 — Introduction to Vectors and Word Analogy
+<div align="center">
+
+![Theory: Introduction to Vectors and Word Analogy](https://capsule-render.vercel.app/api?type=waving&color=0:0B0C0E,50:363B45,100:586174&height=200&section=header&text=Theory:%20Graph%20Neural%20Networks&Field&fontSize=30&fontColor=ffffff&fontAlignY=25&animation=fadeIn&des=NATURAL%20LANGUAGE%20PROCESSING&descSize=25&descAlignY=58)
+
+</div>
+
+---
 
 ## 1. Why represent words as vectors at all?
 
@@ -71,3 +77,11 @@ Real results are noisier than textbook examples, and that noise is itself instru
 2. Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). *Efficient Estimation of Word Representations in Vector Space.* ICLR Workshop. (Popularised the analogy task and the 3CosAdd method explored here; Phase 3 implements the model itself.)
 3. Levy, O., & Goldberg, Y. (2014). *Linguistic Regularities in Sparse and Explicit Word Representations.* CoNLL. (3CosMul and a count-based view of why analogies work.)
 4. Firth, J. R. (1957). *A Synopsis of Linguistic Theory, 1930–1955.* — origin of "you shall know a word by the company it keeps," the informal statement of the distributional hypothesis.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C0E,50:363B45,100:586174&height=70&section=footer" width="100%"/>
+
+</div>
