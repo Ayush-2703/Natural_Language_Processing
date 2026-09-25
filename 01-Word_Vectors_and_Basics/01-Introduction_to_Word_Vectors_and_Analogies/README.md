@@ -1,6 +1,6 @@
 <div align="center">
 
-![Theory: Introduction to Vectors and Word Analogy](https://capsule-render.vercel.app/api?type=waving&color=0:0B0C0E,50:363B45,100:586174&height=200&section=header&text=Theory:%20Graph%20Neural%20Networks&Field&fontSize=30&fontColor=ffffff&fontAlignY=25&animation=fadeIn&desc=NATURAL%20LANGUAGE%20PROCESSING&descSize=20&descAlignY=58)
+![Theory: Introduction to Vectors and Word Analogy](https://capsule-render.vercel.app/api?type=waving&color=0:0B0C0E,50:363B45,100:586174&height=200&section=header&text=Theory:%20Graph%20Neural%20Networks&Field&fontSize=30&fontColor=ffffff&fontAlignY=25&animation=fadeIn&desc=Natural%20Language%20Processing&descSize=20&descAlignY=58)
 
 </div>
 
