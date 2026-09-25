@@ -1,5 +1,5 @@
 """
-Topic 1.1 -- Introduction to Word Vectors and Word Analogy
+Topic -- Introduction to Word Vectors and Word Analogy
 
 Trains (or loads a cached copy of) Word2Vec embeddings on a multi-million-
 token corpus assembled from NLTK's Brown, Gutenberg, and Movie Reviews
