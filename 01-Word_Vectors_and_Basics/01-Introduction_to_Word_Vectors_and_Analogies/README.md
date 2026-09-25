@@ -48,7 +48,7 @@ vec(king) - vec(man) + vec(woman)  ≈  vec(queen)
 
 Geometrically, this says the offset from `man` to `king` (call it "+royalty") is approximately the same vector as the offset from `woman` to `queen`; equivalently, `king`, `queen`, `man`, `woman` form (approximately) the four corners of a parallelogram in embedding space.
 
-![The parallelogram model of word analogy](01-Word_Vectors_and_Basics/01-Introduction_to_Word_Vectors_and_Analogies/Image/parallelogram_concept.png)
+![The parallelogram model of word analogy](https://github.com/Ayush-2703/Natural_Language_Processing/blob/main/01-Word_Vectors_and_Basics/01-Introduction_to_Word_Vectors_and_Analogies/Image/parallelogram_concept.png)
 Formally, solving the analogy `a : b :: c : ?` means finding the vocabulary word `d` that maximises:
 
 ```
