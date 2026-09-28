@@ -1,4 +1,4 @@
-# 1.2 — Code Explanation
+# Explanation: Assessing Word Vectors using TF-IDF and t-SNE 
 
 ## Reusing Topic 1.1's embeddings
 
