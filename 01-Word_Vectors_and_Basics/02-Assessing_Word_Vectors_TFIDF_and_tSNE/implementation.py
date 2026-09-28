@@ -1,5 +1,5 @@
 """
-Topic 1.2 -- Assessing Word Vectors using TF-IDF and t-SNE Dimensionality Reduction
+Topic -- Assessing Word Vectors using TF-IDF and t-SNE Dimensionality Reduction
 
 Two assessments of vector quality, both using t-SNE purely for *visualisation*
 and a proper distance metric (silhouette score) computed in the original
