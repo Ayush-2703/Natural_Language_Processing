@@ -6,7 +6,7 @@
 
 ---
 
-# 1.2 — Assessing Word Vectors using TF-IDF and t-SNE Dimensionality Reduction
+# 1.2 — Assessing Word Vectors using TF-IDF and t-SNE Dimensionality Reduction 
 
 This topic introduces two classical tools and, just as importantly, the right and wrong ways to use one of them together with vectors: **TF-IDF** as a non-neural baseline vector representation, and **t-SNE** as a way to *look at* high-dimensional vector spaces — whether those vectors come from TF-IDF or from a trained embedding model like the Word2Vec from Topic 1.1.
 
