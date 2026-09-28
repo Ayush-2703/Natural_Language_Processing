@@ -1,6 +1,6 @@
 # Explanation: Assessing Word Vectors using TF-IDF and t-SNE 
 
-## Reusing Topic 1.1's embeddings
+## Reusing Topic 1.1's embeddings 
 
 ```python
 W2V_PATH = os.path.join(HERE, "..", "1.1-Introduction-to-Word-Vectors-and-Analogies",
