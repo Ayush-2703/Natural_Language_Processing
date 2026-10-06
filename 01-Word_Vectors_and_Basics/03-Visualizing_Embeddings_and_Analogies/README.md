@@ -1,4 +1,10 @@
-# 1.3 — Visualizing Data and Analogies (t-SNE, Embedding Projectors)
+<div align="center">
+
+![Theory: Visualizing Data and Analogies](https://capsule-render.vercel.app/api?type=waving&color=0:0B0C0E,50:363B45,100:586174&height=200&section=header&text=Theory:%20Visualizing%20Data%20and%20Analogies&Field&fontSize=30&fontColor=ffffff&fontAlignY=25&animation=fadeIn&desc=Natural%20Language%20Processing&descSize=20&descAlignY=58)
+
+</div>
+
+---
 
 Topic 1.2 used t-SNE to ask "do these vectors cluster by category?" This topic asks a different question — "can I *see* the analogy structure from Topic 1.1?" — and the honest answer requires understanding **why t-SNE is the wrong tool for that specific question**, even though it was the right tool for clustering.
 
