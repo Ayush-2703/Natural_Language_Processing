@@ -40,3 +40,11 @@ The result is more interesting than a clean confirmation would have been. The nu
 1. Smilkov, D., Thorat, N., Nicholson, C., Reif, E., Viégas, F. B., & Wattenberg, M. (2016). *Embedding Projector: Interactive Visualization and Interpretation of Embeddings.* NeurIPS Workshop on Interpretable ML. (The TensorFlow tool this topic's name and design are inspired by.)
 2. Pearson, K. (1901). *On Lines and Planes of Closest Fit to Systems of Points in Space.* Philosophical Magazine. (The original statement of what became PCA.)
 3. Mikolov, T., Yih, W., & Zweig, G. (2013). *Linguistic Regularities in Continuous Space Word Representations.* NAACL. (The paper that first showed offset vectors like "+plural" or "+capital-of" are approximately consistent across many word pairs — the property being stress-tested here.)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C0E,50:363B45,100:586174&height=70&section=footer" width="100%"/>
+
+</div>
