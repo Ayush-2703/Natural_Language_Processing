@@ -4,7 +4,7 @@
 
 </div>
 
----
+--- 
 
 # 1.2 — Assessing Word Vectors using TF-IDF and t-SNE Dimensionality Reduction 
 
