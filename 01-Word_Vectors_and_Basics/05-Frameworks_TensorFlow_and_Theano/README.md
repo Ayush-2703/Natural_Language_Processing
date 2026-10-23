@@ -1,4 +1,10 @@
-# 1.5 — Basics of Computational Frameworks: TensorFlow and Theano
+<div align="center">
+
+![Theory: Basics of Computational Frameworks: TensorFlow and Theano](https://capsule-render.vercel.app/api?type=waving&color=0:0B0C0E,50:363B45,100:586174&height=200&section=header&text=Theory:%20Basics%20of%20Computational%20Frameworks:%20TensorFlow%20and%20Theano&Field&fontSize=30&fontColor=ffffff&fontAlignY=25&animation=fadeIn&desc=Natural%20Language%20Processing&descSize=20&descAlignY=58)
+
+</div>
+
+---
 
 Every other topic in this Phase calls `.backward()` or relies on a framework to compute gradients without ever asking *how*. This topic is about that "how" — the computational graph abstraction that both TensorFlow and Theano are built on, and that every other deep learning framework (PyTorch included) implements some version of.
 
@@ -45,3 +51,11 @@ Inside the `with` block, every operation that touches a watched value (by defaul
 2. Abadi, M., et al. (2016). *TensorFlow: A System for Large-Scale Machine Learning.* OSDI.
 3. Baydin, A. G., Pearlmutter, B. A., Radul, A. A., & Siskind, J. M. (2018). *Automatic Differentiation in Machine Learning: A Survey.* Journal of Machine Learning Research, 18, 1–43. (The forward- vs. reverse-mode complexity argument in section 1 is treated rigorously here.)
 4. Bengio, Y. (2009). *Learning Deep Architectures for AI.* Foundations and Trends in Machine Learning. (Bengio's lab at Montreal built Theano specifically to support this kind of research at scale — direct institutional link to Topic 1.1's reference.)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C0E,50:363B45,100:586174&height=70&section=footer" width="100%"/>
+
+</div>
