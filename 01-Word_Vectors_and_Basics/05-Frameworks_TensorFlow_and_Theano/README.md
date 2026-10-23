@@ -1,6 +1,6 @@
 <div align="center">
 
-![Theory: Basics of Computational Frameworks: TensorFlow and Theano](https://capsule-render.vercel.app/api?type=waving&color=0:0B0C0E,50:363B45,100:586174&height=200&section=header&text=Theory:%20Basics%20of%20Computational%20Frameworks:%20TensorFlow%20and%20Theano&Field&fontSize=30&fontColor=ffffff&fontAlignY=25&animation=fadeIn&desc=Natural%20Language%20Processing&descSize=20&descAlignY=58)
+![Theory: Basics of Computational Frameworks: TensorFlow and Theano](https://capsule-render.vercel.app/api?type=waving&color=0:0B0C0E,50:363B45,100:586174&height=200&section=header&text=Theory:%20Basics%20of%20Computational%20Frameworks:%20TensorFlow%20and%20Theano&Field&fontSize=25&fontColor=ffffff&fontAlignY=25&animation=fadeIn&desc=Natural%20Language%20Processing&descSize=20&descAlignY=58)
 
 </div>
 
