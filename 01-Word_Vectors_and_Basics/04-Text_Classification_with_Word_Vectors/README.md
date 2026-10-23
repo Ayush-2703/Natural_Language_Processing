@@ -1,4 +1,10 @@
-# 1.4 — Text Classification utilizing Word Vectors
+<div align="center">
+
+![Theory: Text Classification utilizing Word Vectors](https://capsule-render.vercel.app/api?type=waving&color=0:0B0C0E,50:363B45,100:586174&height=200&section=header&text=Theory:%20Text%20Classification%20utilizing%20Word%20Vectors&fontSize=30&fontColor=ffffff&fontAlignY=25&animation=fadeIn&desc=Natural%20Language%20Processing&descSize=20&descAlignY=58)
+
+</div>
+
+---
 
 ## 1. The central idea: reuse a representation instead of designing features
 
@@ -40,3 +46,11 @@ This penalises confident wrong answers heavily (as `p_y → 0`, `-log(p_y) → �
 2. Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., & Kuksa, P. (2011). *Natural Language Processing (Almost) from Scratch.* JMLR.
 3. Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). *A Neural Probabilistic Language Model.* JMLR. (The original case for jointly learning representation and task — see Topic 1.1.)
 4. Pang, B., Lee, L., & Vaithyanathan, S. (2002). *Thumbs up? Sentiment Classification using Machine Learning Techniques.* EMNLP. (The line of work the Movie Reviews corpus used here comes from.)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C0E,50:363B45,100:586174&height=70&section=footer" width="100%"/>
+
+</div>
