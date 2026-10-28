@@ -1,6 +1,6 @@
 <div align="center">
 
-![Phase 1: Word Vectors and Basics](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase%201%20%C2%B7%20Word%20Vectors%20and%20Basics&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=From%20one-hot%20vectors%20to%20a%20real%2C%20trained%2C%20analogy-solving%20embedding%20space&descSize=16&descAlignY=62)
+![Phase 1: Word Vectors and Basics](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase:%20Word%20Vectors%20and%20Basics&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=From%20one-hot%20vectors%20to%20a%20real%2C%20trained%2C%20analogy-solving%20embedding%20space&descSize=16&descAlignY=62)
 
 **Made with ❤️ by [Ayush Kumar Singh](https://github.com/Ayush-2703)**
 
