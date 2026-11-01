@@ -1,6 +1,6 @@
 <div align="center">
 
-![Phase 5: Recursive Neural Networks and Tree Structures](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase%205%20%C2%B7%20Recursive%20Neural%20Networks%20and%20Tree%20Structures&fontSize=28&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Composing%20meaning%20bottom-up%20over%20a%20parse%20tree%2C%20not%20left-to-right&descSize=16&descAlignY=62)
+![Phase 5: Recursive Neural Networks and Tree Structures](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase:%20Recursive%20Neural%20Networks%20and%20Tree%20Structures&fontSize=28&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Composing%20meaning%20bottom-up%20over%20a%20parse%20tree%2C%20not%20left-to-right&descSize=16&descAlignY=62)
 
 **Made with ❤️ by [Ayush Kumar Singh](https://github.com/Ayush-2703)**
 
