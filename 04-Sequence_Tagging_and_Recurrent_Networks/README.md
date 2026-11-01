@@ -1,6 +1,6 @@
 <div align="center">
 
-![Phase 4: Sequence Tagging and Recurrent Networks](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase%204%20%C2%B7%20Sequence%20Tagging%20and%20Recurrent%20Networks&fontSize=32&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=From%20one%20label%20per%20sentence%20to%20one%20label%20per%20word&descSize=16&descAlignY=62)
+![Phase 4: Sequence Tagging and Recurrent Networks](https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:3F3F46&height=220&section=header&text=Phase%20Sequence%20Tagging%20and%20Recurrent%20Networks&fontSize=32&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=From%20one%20label%20per%20sentence%20to%20one%20label%20per%20word&descSize=16&descAlignY=62)
 
 **Made with ❤️ by [Ayush Kumar Singh](https://github.com/Ayush-2703)**
 
